@@ -1,0 +1,3 @@
+/home/acer/graphics_lab/week01/build/CMakeFiles/week01.dir
+/home/acer/graphics_lab/week01/build/CMakeFiles/edit_cache.dir
+/home/acer/graphics_lab/week01/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/week01.dir/link.d CMakeFiles/week01.dir/main.cpp.o CMakeFiles/week01.dir/home/acer/graphics_lab/external/glad/src/gl.c.o -o week01  -lglfw -lGL -ldl
